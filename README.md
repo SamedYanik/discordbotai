@@ -1,1 +1,1 @@
-# discordbotai
+discordda yaptığım botu geliştireceğim zaman discord boyuma şunu ekleyeceğim discordda kötü bir söz kullanırsa discord botum onları uyaracak ve onlara buradaki grupta kötü söz kullanmay... bilgi verecek ve bu grupta kötü söz kullananı direkt şikayet edeceğim diyecek ve daha fazla özellik ekleyeceğim
